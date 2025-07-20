@@ -12,3 +12,6 @@ div{
     display: flex;
     justify-content: center;
 }
+body{
+    background-color: bisque;
+}
