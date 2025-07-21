@@ -10,7 +10,7 @@ body{
 }
 
 div{
-    margin-top: 5%;
+    margin-top: 2.6em;
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -18,7 +18,7 @@ div{
 a, a:link, a:hover {
     color:#56299e;
     text-decoration: none;
-    margin-top: 5%;
+    margin-top: 2.6em;
     display: block;
     text-align: center;
     font-family: "Press Start 2P", system-ui;
